@@ -1,0 +1,7 @@
+0-Savings
+1-Fixed Deposit
+2-Pawning
+3-Loans
+
+
+

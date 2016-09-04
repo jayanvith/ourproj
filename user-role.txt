@@ -1,0 +1,6 @@
+1-supper
+2-sysadmin
+3-branch manager
+4-Second officer
+5-teller
+6-auditor
